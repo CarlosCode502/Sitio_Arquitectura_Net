@@ -9,12 +9,16 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Web_Arquitecto_Net
 build_property.RootNamespace = Web_Arquitecto_Net
-build_property.ProjectDir = c:\Users\admin\source\vs_code_repos\Sitio_Arquitectura_Net\Web_Arquitecto_Net\
+build_property.ProjectDir = C:\Users\admin\source\vs_code_repos\Sitio_Arquitectura_Net\Web_Arquitecto_Net\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\admin\source\vs_code_repos\Sitio_Arquitectura_Net\Web_Arquitecto_Net
+build_property.MSBuildProjectDirectory = C:\Users\admin\source\vs_code_repos\Sitio_Arquitectura_Net\Web_Arquitecto_Net
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/admin/source/vs_code_repos/Sitio_Arquitectura_Net/Web_Arquitecto_Net/Views/Arquitectos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJxdWl0ZWN0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/admin/source/vs_code_repos/Sitio_Arquitectura_Net/Web_Arquitecto_Net/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=

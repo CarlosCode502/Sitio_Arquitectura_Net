@@ -18674,6 +18674,11 @@
       "FilePath": "C:\\Users\\admin\\source\\vs_code_repos\\Sitio_Arquitectura_Net\\Web_Arquitecto_Net\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "C:\\Users\\admin\\source\\vs_code_repos\\Sitio_Arquitectura_Net\\Web_Arquitecto_Net\\Views\\Arquitectos\\Index.cshtml",
+      "TargetPath": "Views\\Arquitectos\\Index.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.3"
